@@ -1,17 +1,18 @@
+# Module 1: Linux Fundamentals
 
-# Linux Fundamentals
+## Module 1.1: Introduction & Architecture
 
-## What is an Operating System?
+### What is an Operating System?
 An Operating System (OS) is the software that manages a computer's hardware resources (CPU, memory, storage) and acts as an intermediary between the hardware and the applications you run.
 
 ---
 
-## Why do UAV engineers use Linux?
+### Why do UAV engineers use Linux?
 UAV engineers use Linux because it is open-source, highly stable, and lightweight, allowing for deep customization on resource-constrained drone hardware. Additionally, standard robotics frameworks like **ROS**, **PX4**, **ArduPilot**, and **Gazebo** are natively built and optimized for Linux.
 
 ---
 
-## Linux Architecture
+### Linux Architecture
 
 
 
@@ -22,8 +23,7 @@ UAV engineers use Linux because it is open-source, highly stable, and lightweigh
 
 ---
 
-## Commands Learned Today
-
+### Commands Learned Today
 * `pwd` – **P**rint **W**orking **D**irectory (shows your current folder path).
 * `ls` – **L**i**s**t (displays files and folders in your current directory).
 * `whoami` – Displays the username of the current terminal session.
@@ -32,10 +32,12 @@ UAV engineers use Linux because it is open-source, highly stable, and lightweigh
 
 ---
 
-## What I Learned Today
+### Module 1.1 Summary
 Today I learned the foundational layout of an operating system and why Linux is the industry standard for UAV and robotics development. I explored the layered architecture of Linux, understanding how commands flow from the user terminal down to the physical hardware components. Finally, I gained hands-on experience using the command line to navigate the filesystem and query core system information, which is essential for future drone simulation and configuration tasks.
 
-## Linux File System Quick Summary
+***
+
+## Module 1.2: Linux File System
 
 ### What is a file system?
 It is the system's digital filing cabinet. It organizes and manages how data is stored and retrieved on a drive, keeping it structured in files and folders instead of a chaotic mess of data.
@@ -66,5 +68,6 @@ Represented by a single forward slash (`/`), the root directory is the absolute 
 
 ---
 
-### What I Learned Today
+### Module 1.2 Summary
 Today I learned that Linux organizes everything into a single, clean tree structure starting at the root (`/`) directory. I discovered that even hardware devices are treated as files inside this system. I mastered the difference between absolute paths (full addresses) and relative paths (directional shortcuts). Understanding specific folders like `/etc` for settings and `/var` for logs helped demystify how Linux stays organized under the hood. Ultimately, navigating the terminal feels much easier now that I know how the filesystem layout works.
+
