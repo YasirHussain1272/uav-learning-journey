@@ -27,7 +27,7 @@ UAV engineers use Linux because it is open-source, highly stable, and lightweigh
 * `uname -a` – Prints detailed system and Linux kernel information.
 * `hostnamectl` – Shows system architecture, OS version, and device name settings.
 
-![Linux Architecture Diagram](01-Linux/Images/Module_1.1.png)
+![Linux Architecture Diagram](/Images/Module_1.1.png)
 
 ---
 
@@ -65,7 +65,7 @@ Represented by a single forward slash (`/`), the root directory is the absolute 
 
 ---
 
-![Linux Directory Tree Structure](01-Linux/Images/Module_1.2.png)
+![Linux Directory Tree Structure](Images/Module_1.2.png)
 
 ### Module 1.2 Summary
 Today I learned that Linux organizes everything into a single, clean tree structure starting at the root (`/`) directory. I discovered that even hardware devices are treated as files inside this system. I mastered the difference between absolute paths (full addresses) and relative paths (directional shortcuts). Understanding specific folders like `/etc` for settings and `/var` for logs helped demystify how Linux stays organized under the hood. Ultimately, navigating the terminal feels much easier now that I know how the filesystem layout works.
