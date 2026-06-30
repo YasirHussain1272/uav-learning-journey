@@ -28,7 +28,7 @@ UAV engineers use Linux because it is open-source, highly stable, and lightweigh
 * `uname -a` – Prints detailed system and Linux kernel information.
 * `hostnamectl` – Shows system architecture, OS version, and device name settings.
 
-![Linux Architecture Diagram](/Images/Module_1.1.png)
+![Linux Architecture Diagram](../Images/Module_1.1.png)
 
 ---
 
