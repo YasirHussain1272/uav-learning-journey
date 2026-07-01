@@ -1,3 +1,4 @@
+![Linux All you need](Images/Linux.png)
 # Module 1: Linux Fundamentals
 
 ## Module 1.1: Introduction & Architecture
