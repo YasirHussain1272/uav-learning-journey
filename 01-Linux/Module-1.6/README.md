@@ -41,6 +41,8 @@ In drone development, environment variables are heavily used to configure simula
 
 ## What I Learned Today
 Today I mastered how the Linux operating system handles system configuration and command routing through environment variables. I learned that the $PATH variable is the hidden backbone that allows the terminal to locate and execute tools seamlessly without needing their absolute file paths. I also discovered how to use utility commands like which to audit executable locations and export to modify system parameters dynamically. Finally, I connected these concepts to UAV engineering, realizing how crucial environment variables are for switching drone models in software-in-the-loop (SITL) flight simulations and fixing graphic rendering bugs with LIBGL_ALWAYS_SOFTWARE.
+
+![Module 1.6 all command](../Images/Module_1.6.png)
 ```bash
 export PX4_SIM_MODEL=iris_vision
 export PX4_SIM_WORLD=mcmillan_airfield
