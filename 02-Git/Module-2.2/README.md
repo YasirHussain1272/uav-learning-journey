@@ -96,7 +96,7 @@ Today I learned about Git’s internal architectural layout, moving beyond simpl
 
 
 
-![Hands-on Workflow Demo](Images/Module_2.2.png)
+![Hands-on Workflow Demo](../Images/Module_2.2.png)
 
 
 
